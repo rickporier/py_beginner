@@ -51,5 +51,3 @@ my_int **= 3        # (2.0)^3
 print( my_int )     # 8.0 ( If both are integers then **= assigns int )
 
 
-
-
