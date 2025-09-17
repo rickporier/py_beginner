@@ -1,8 +1,5 @@
-my_int=6
+num=3
 
-if my_int==4:
-    print( 'My Int is 4')
-elif my_int==5:
-    print( 'My Int is 5')
-else: 
-    print( 'My Int is not 4 or 5')
+for num in range(5,0,-1):
+    print(num)
+
